@@ -6,3 +6,4 @@ this is a git test demo!
 this is a git test demo!
 this is a git test demo!
 this is a git test demo! last line
+this is a new line!
